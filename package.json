@@ -1,0 +1,29 @@
+{
+  "name": "comb",
+  "version": "1.0.0",
+  "description": "comb static sources by NodeJS",
+  "main": "./lib/index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhou1988/comb.git"
+  },
+  "keywords": [
+    "static",
+    "files",
+    "comb",
+    "server"
+  ],
+  "author": "samhou <samhou1988@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samhou1988/comb/issues"
+  },
+  "homepage": "https://github.com/samhou1988/comb#readme"
+}
